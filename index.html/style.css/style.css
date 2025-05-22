@@ -113,11 +113,9 @@ nav .nav-links a:hover {
     justify-content: center;
     align-items: center;
 }
-
-
 #home {
     position: relative;
-    background: url('../images/dcd7b37c-b584-4dc8-9c6b-23420be84f99.jpeg') center center/cover no-repeat;
+    background: url('../images/homepage.jpeg') center center/cover no-repeat;
     min-height: 100vh;
     color: #fff; 
     justify-content: center;
