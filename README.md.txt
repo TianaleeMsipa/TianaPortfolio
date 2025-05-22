@@ -13,16 +13,6 @@ Technologies Used:
 * CSS
 * JavaScript
 
-Live Website Access Link
+Live Website Access Link: 
 
-Deployed Site URL: [You will fill this in AFTER deploying with GitHub Pages in Part 2]
-
-GitHub Repository Link:
-
-Repository URL: [This will be the URL of your GitHub repository, e.g., https://github.com/your-username/your-repo-name]
-
-How to View Locally
-
-1.  Clone the repository: `git clone [Your GitHub Repository URL]`
-2.  Navigate to the project directory.
-3.  Open `index.html` in your web browser.
+GitHub Repository URL: https://github.com/TianaleeMsipa/TianaPortfolio
